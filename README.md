@@ -3,8 +3,7 @@
 ##Description 
 
 Jupyter Notebook to calculate microstructural parameters (diameter, coordination number, sorting, sphericity)
-This code calculates the microstructural parameters of 3D images of sand grains. Images should be saved in tiff format. 
-There are two versions of the codes, (a) First code is used when you have already labeled your grains after segmentation. (b) Is when you have just binarized (Grains and pore spaces) the 3D volume. 
+This code calculates the microstructural parameters of 3D images of sand grains. Processed images(labeled) from ImageJ should be saved in tiff format. 
 
 ##Getting Started
 
